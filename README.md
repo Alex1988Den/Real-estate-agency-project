@@ -120,4 +120,4 @@ Grafana используется для визуализации данных, �
 
     Email: aleksandr.denissov@brave.ee
 
-[Скачать файл с данными с Google Диска][https://drive.google.com/file/d/1CNNakCI_B4v6iOrso_jSFLGKVNeh_rwE/view?usp=sharing](https://drive.google.com/file/d/1AfOD2_QfYaSDEHGMjUZcTE6CZ5p677Q7/view?usp=drive_link)](https://drive.google.com/file/d/1AfOD2_QfYaSDEHGMjUZcTE6CZ5p677Q7/view?usp=drive_link)
+[Скачать файл с данными с Google Диска][https://drive.google.com/file/d/1FEaqmNrViJTkon7nt0b3pNIqybpdq9Iw/view?usp=sharing]  
